@@ -1,4 +1,4 @@
 ```
-yarn install
+yarn
 node --watch index.js
 ```
